@@ -22,3 +22,20 @@ img{
 .card h2{
     font-size: 20px;
 }
+.card:hover{
+    background-color:beige;
+    transform: scale(1.05);
+
+}
+.footer {
+    padding: 17px;
+    text-align: center;
+}
+.footer a {
+    text-decoration: none;
+}
+.tarjeta{
+    display: flex;
+    justify-content: center;
+
+}
